@@ -9,7 +9,9 @@ Our system achieves an RMSE of 0.02569 on the provided RadioMap3Dseer dataset, a
     - RadioMap3DSeer_Test: Estimated images using the validation subset we determined in the training dataset.
 
 # Checkpoint
-["Link"](https://drive.google.com/drive/folders/1Muep-_-zrY0cryF28eMmZXC_s3PSE2gY?usp=drive_link)
+<!--["Link"](https://drive.google.com/drive/folders/1Muep-_-zrY0cryF28eMmZXC_s3PSE2gY?usp=drive_link)-->
+["Link"](https://drive.google.com/file/d/1vEJT2ZA6J5OVfWs4q5tYFcqozkcT0siE/view?usp=sharing)
+
 
 # Setup
 Install packages using the following instruction.
