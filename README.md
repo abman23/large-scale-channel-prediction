@@ -6,7 +6,9 @@ This repo is the official implementation of ["Large-Scale Channel Prediction Sys
 - Our system achieves an RMSE of 0.02569 on the provided RadioMap3Dseer dataset, and 0.0383 on the challenge test set, placing it in the **1st-rank** of the ML competition @ IEEE ICASSP 2023.
 - **RMSE**: 0.02569
 <!-- - Run-time: 57.90 [sec] -->
-
+<div align="center">
+<img src="fig-prediction.png" alt="map_USC" width="500"/> 
+</div>
 
 ## Citation
 
